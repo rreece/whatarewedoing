@@ -5,8 +5,8 @@ whatarewedoing
 Poems
 -------------------------------------------------------------------------------
 
-1.  [one](one.md)
 1.  [beans with garlic](beans-with-garlic.md)
+1.  [Things are](things-are.md)
 
 
 Authors
