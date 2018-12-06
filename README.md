@@ -20,7 +20,6 @@ Created: Dec 6, 2018
 License
 -------------------------------------------------------------------------------
 
-Copyleft 2018 The Authors
-License: GPL <http://www.gnu.org/licenses/gpl.html>
+Copyright 2018 The Authors
 
 
