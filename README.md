@@ -6,6 +6,7 @@ Poems
 -------------------------------------------------------------------------------
 
 1.  [beans with garlic](beans-with-garlic.md)
+1.  [Tell the World](tell-the-world.md)
 1.  [Things are](things-are.md)
 
 
